@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config-kennedy",
+  "version": "0.0.0",
+  "description": "rafael kennedy's preferred eslint configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "rafael kennedy",
+  "license": "MIT"
+}
